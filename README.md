@@ -1,2 +1,2 @@
-# project-model
- Projeto desenvolvido em HTML e CSS
+# Projeto Atriz
+ Repositório do projeto Anna Bella
